@@ -1,6 +1,7 @@
 namespace DesafioPOO.Models
 {
     // TODO: Herdar da classe "Smartphone"
+    // FEITO
     public class Nokia : Smartphone
     {
 
